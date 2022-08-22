@@ -21,3 +21,8 @@
 - Iterar sobre os itens do LocalStorage
 - Utilizar o curto circuito para verificação lógica
 - Converter os itens que antes eram strings em objetos com JSON.parse
+
+### Nesta aula 04, aprendemos a:
+
+- Filtrar elementos de um array
+- Ordenar elementos do LocalStorage
