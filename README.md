@@ -1,4 +1,4 @@
-# js_na_web
+# Curso JS na web Alura:
 
 ## O que aprendemos?
 
