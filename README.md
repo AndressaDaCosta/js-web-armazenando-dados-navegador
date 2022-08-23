@@ -26,3 +26,8 @@
 
 - Filtrar elementos de um array
 - Ordenar elementos do LocalStorage
+
+### Nesta aula 05, aprendemos a:
+
+- Alterar um estado utilizando operador de negação
+- Remover dados do LocalStorage utilizando o método splice
